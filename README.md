@@ -55,7 +55,7 @@ This project helped develop practical skills in data cleaning, dashboard develop
 
 ## Dashboard Preview
 
-![Meta Ad Performance Dashboard](dashboard.png)
+[(https://github.com/Smitadesai25/Meta-Add-Performance-Dashboard/blob/main/Meta%20Add%20Performance%20Dashboard.png)]
 
 ## Author
 
