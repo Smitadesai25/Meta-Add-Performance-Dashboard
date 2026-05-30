@@ -1,22 +1,63 @@
-🚀 Project Completed: Meta (Facebook & Instagram) Ad Performance Dashboard
+# Meta Ad Performance Dashboard
 
-Excited to share my latest Power BI project focused on analyzing Meta ad campaign performance through interactive dashboards and data-driven insights.
+## Overview
 
-📊 Key Metrics:
-• Impressions
-• Clicks
-• CTR
-• Engagement Rate
-• Conversion Rate
-• Purchase Rate
-• Budget Analysis
+This project is an interactive Power BI dashboard designed to analyze and visualize Meta (Facebook & Instagram) advertising campaign performance. The dashboard provides insights into campaign effectiveness, audience engagement, conversions, and budget utilization through dynamic visualizations and KPI tracking.
 
-🛠️ Tools Used:
-• Power BI
-• Power Query
-• DAX
-• Data Modeling
+## Features
 
-This project helped me strengthen my skills in data cleaning, visualization, KPI analysis, and dashboard development while transforming raw marketing data into meaningful business insights.
+* Interactive Power BI Dashboard
+* Data Cleaning and Transformation
+* Campaign Performance Analysis
+* KPI Monitoring and Visualization
+* Dynamic Filtering and Slicers
+* Marketing Performance Insights
 
-#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #MarketingAnalytics #DataScience #PortfolioProject
+## Key Metrics
+
+* Impressions
+* Clicks
+* CTR (Click-Through Rate)
+* Engagement Rate
+* Conversion Rate
+* Purchase Rate
+* Budget Analysis
+* Comments
+* Shares
+* Engagements
+
+## Dashboard Insights
+
+* Comments by Gender
+* Comments by Age Group
+* Weekly & Hourly Comment Trends
+* Country-wise Performance Analysis
+* Monthly Campaign Analysis
+* Ad Type Performance Comparison
+
+## Tools & Technologies
+
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Modeling
+
+## Objectives
+
+* Transform raw marketing data into actionable insights
+* Measure campaign effectiveness
+* Track engagement and conversion performance
+* Support data-driven marketing decisions
+
+## Project Outcome
+
+This project helped develop practical skills in data cleaning, dashboard development, KPI analysis, data visualization, and marketing analytics using Power BI.
+
+## Dashboard Preview
+
+![Meta Ad Performance Dashboard](dashboard.png)
+
+## Author
+
+Smita Desai
+Computer Science and Engineering Student | Aspiring Data Analyst
